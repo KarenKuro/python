@@ -1,0 +1,15 @@
+What is the capital of France?Paris,London,Berlin,Moscow
+What is the capital of GB?London,Paris,Berlin,Moscow
+What is the capital of Germany?Berlin,Paris,London,Moscow
+What is the capital of Russia?Moscow,Paris,London,Berlin
+What is the capital of Spain?Madrid,Rome,Yerevan,Tbilisi
+What is the capital of Italy?Rome,Madrid,Yerevan,Tbilisi
+What is the capital of Armenia?Yerevan,Madrid,Rome,Tbilisi
+What is the capital of Georgia?Tbilisi,Madrid,Rome,Yerevan
+What is the capital of Japan?Tokio,Astana,Beijing,Vien
+What is the capital of Kazakhstan?Astana,Tokio,Beijing,Vien
+What is the capital of China?Beijing,Tokio,Astana,Vien
+What is the capital of Austria?Vien,Tokio,Astana,Beijing
+What is the capital of Egypt?Cairo,Warsaw,Washington,Tallinn
+What is the capital of Poland?Warsaw,Cairo,Washington,Tallinn
+What is the capital of USA?Washington,Cairo,Warsaw,Tallinn
